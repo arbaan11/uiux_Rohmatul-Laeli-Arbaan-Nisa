@@ -33,7 +33,6 @@
     Pada task ini diminta untuk membuat branch (master, develop, fitur, pengembang fitur) setelah itu dilakukan merge.
     Berikut hasil dari praktikum :
     https://github.com/arbaan11/Praktikum-Section-2
-
-    Output :
-    ![Screenshot (199)](https://user-images.githubusercontent.com/80687802/155080707-49d93842-88c7-4c48-8d38-c86deaa3dcbf.png)
 </p>
+
+![Screenshot (199)](https://user-images.githubusercontent.com/80687802/155081686-73a218c7-b4e4-436a-b32f-b3bb6d5288f1.png)
