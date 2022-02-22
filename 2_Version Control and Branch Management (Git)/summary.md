@@ -35,5 +35,5 @@
     https://github.com/arbaan11/Praktikum-Section-2
 
     Output :
-
+    ![Screenshot (199)](https://user-images.githubusercontent.com/80687802/155080707-49d93842-88c7-4c48-8d38-c86deaa3dcbf.png)
 </p>
