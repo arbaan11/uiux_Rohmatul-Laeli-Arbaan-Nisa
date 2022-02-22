@@ -1,6 +1,7 @@
 <h1>(2) Version Control and Branch Management (Git)</h1>
 
-<h2>1. Versioning</h2>
+<h2>Resume</h2>
+<h3>1. Versioning</h3>
 <p>
     Versioning adalah mengatur versi dari source code program. Hal ini terjadi ketika kita mempunyai file yang mungkin harus terdapat revisi yang tidak hanya sekali yang mana akan membuat file kita menjadi bertumpuk. 
     Cikal Bakal VCS (Version Control System) :
@@ -9,32 +10,14 @@
         <li>Centralized</li>
         <li>Distributed</li>
     </ol>
-    Dalam memulai versioning dapat menggunakan tools berikut :
-    <ul>
-        <li>GIT</li>
-        <li>GitHub</li>
-        <li>VSCode</li>
-    </ul>
 
 </p>
 
-<h2>2. GIT</h2>
+<h3>2. GIT</h3>
 <p>
-<h3>Introducing</h3>
-    Git merupakan salah satu version control system populer yang digunakan developer dalam mengembangkan software dalam kolaborasi. Git merekam setiap perubahan file. Github merupakan git hosting servis dalam membuat repository yang akan digunakan dalam mengerjakan project. Git dapat diinstall melalui Mac, Windows, dan Linux. 
-<h3>Setting Up</h3>
-    Sebelum masuk ke repository, file harus melalui taging area terlebih dahulu. File akan masuk ke working directory terlebih dahulu, lalu dengan perintah git add. Kemudian file akan masuk ke staging area, lalu dengan perintah git commit maka file akan masuk ke repository yang ada di github.
-<h3>Perintah-perintah GIT</h3>
-<ul>
-    <li>Untuk setting up dapat menggunakan perintah git init, git clone, dan config</li>
-    <li>Untuk save changes menggunakan perintah git status, add, commit, stash, dan diff</li>
-    <li>Untuk inspecting Repository bisa menggunakan git log, checkout,dan reset</li>
-    <li>Untuk proses Syncing menggunakan git push, fetch, dan pull</li>
-    <li>Untuk membuat branches bisa menggunaka perintah git branching, merge,</li>
-</ul>
-</p>
+    Git merupakan salah satu version control system populer yang digunakan developer dalam mengembangkan software dalam kolaborasi. Git merekam setiap perubahan file. Github merupakan git hosting servis dalam membuat repository yang akan digunakan dalam mengerjakan project. Git dapat diinstall melalui Mac, Windows, dan Linux. Sebelum masuk ke repository, file harus melalui taging area terlebih dahulu. File akan masuk ke working directory terlebih dahulu, lalu dengan perintah git add. Kemudian file akan masuk ke staging area, lalu dengan perintah git commit maka file akan masuk ke repository yang ada di github.
 
-<h2>3. Workflow Collaboration</h2>
+<h3>3. Workflow Collaboration</h3>
 <p>
     Dalam hal ini bertujuan untuk memahami alur kerja yang tepat untuk berkolaborasi dalam github maupun gitlab. Cara agar alur kerja tetap optimal yaitu :
     <ol>
@@ -43,4 +26,14 @@
         <li>Terapkan featur pada branch development saja</li>
         <li>Terapkan development ke master saat sudah selesai</li>
     </ol>
+</p>
+
+<h2>Task</h2>
+<p>
+    Pada task ini diminta untuk membuat branch (master, develop, fitur, pengembang fitur) setelah itu dilakukan merge.
+    Berikut hasil dari praktikum :
+    https://github.com/arbaan11/Praktikum-Section-2
+
+    Output :
+
 </p>
