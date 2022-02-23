@@ -29,3 +29,5 @@
     Berikut hasil dari praktikum :
     https://docs.google.com/document/d/1JpDa5tRYmQz_F8_p8hrmhZkAWVtQrn4XL_i-G-yHzm8/edit?usp=sharing
 </p>
+    Output :
+    ![Screenshot 2022-02-23 155852](https://user-images.githubusercontent.com/80687802/155289034-442d790c-d9e8-4258-94bb-870a97c78d0c.png)
