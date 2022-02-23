@@ -24,3 +24,8 @@
     </ol>
 
 <h2>Task</h2>
+<p>
+    Pada task ini diminta untuk membuat identifikasi user berdasarkan riset contoh user interface (desktop atau aplikasi)
+    Berikut hasil dari praktikum :
+    https://docs.google.com/document/d/1JpDa5tRYmQz_F8_p8hrmhZkAWVtQrn4XL_i-G-yHzm8/edit?usp=sharing
+</p>
