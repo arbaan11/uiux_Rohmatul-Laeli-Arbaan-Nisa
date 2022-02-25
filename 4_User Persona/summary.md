@@ -5,7 +5,7 @@
 <p>
     User persona merupakan representasi tujuan berdasarkan behaviour seseorang sebelum mengembangkan produk. User persona penting karena dengan menggambarkan pengguna nyata maka akan lebih mudah dalam memahami user. Selain itu juga kita sebagai pengembang produk bisa sebagai point of view yang sama mengenai gambaran target user sehingga dapat mengambil keputusan secara tepat. User persona ada 2 yaitu persona marketing dan persona interaktif.
 </p>
-<h3>2. Membuat User Persona/h3>
+<h3>2. Membuat User Persona</h3>
 <p>
     Dalam membuat persona harus dilakukan research, seperti reaserch kualitatif pada user dengan skala kecil (10-29 orang) dan research kuantitatif dengan skala user besar dengan metode survey. Adapun beberapa yang merupakan komponen dari user persona yaitu header, profil demographic, personal background, professional background, lingkungan user, psikografis, tujuan, dan skenario user.
 </p>
@@ -27,8 +27,6 @@
 <h2>Task</h2>
 <p>
     Pada task ini diminta untuk 2 dummy user persona.
-
     Berikut hasil dari praktikum :
     https://www.figma.com/file/ZgZTogOzIcZFQshp5qJTeh/Latihan-User-Persona?node-id=0%3A1
-
 </p>
