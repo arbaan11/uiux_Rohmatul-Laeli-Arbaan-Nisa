@@ -30,3 +30,6 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/ZgZTogOzIcZFQshp5qJTeh/Latihan-User-Persona?node-id=0%3A1
 </p>
+
+![Screenshot 2022-02-25 122813](https://user-images.githubusercontent.com/80687802/155662220-adb03a84-ecbf-441a-9b83-fe193e90f03d.png)
+![Screenshot 2022-02-25 122836](https://user-images.githubusercontent.com/80687802/155662221-d475672f-a431-4b90-a30d-b01eaf7a4bcc.png)
