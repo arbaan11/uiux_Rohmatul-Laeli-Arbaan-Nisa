@@ -9,7 +9,7 @@
 <p>
     Penerapan layer management yang baik dan rapi akan memudahkan kolaborasi dengan designer lain. Adapun terdapat layer tips dalam figma. Pertama <strong>auto delete parent,</strong> semua child element yang didelete pada parent layer maka parent layer auto terdeleted. Kedua <strong>unlock atau unhide child layer,</strong> dapat dengan auto hide/ unhide atau lock/ unlock semua child element dalam parent layer. Ketiga <strong>menamai layer dengan cepat,</strong> dengan menekan tab maka akan menamai layer selanjutnya untuk kembali ke layer paling atas tekan tab (+). Keempat <strong>collabs and expand multilayer,</strong> dengan memilih layer yang ingin di expand, layer yang terpilih akan mengikuti. Kelima <strong>toggle cepat visibilitas dan mengunci sebuah layer,</strong> dengan klik dan draf icon visible/ lock maka layer akan mengikuti.
 </p>
-<h3>3. Style dalam Figma/h3>
+<h3>3. Style dalam Figma</h3>
 <p>
     Adapun contoh styling dalam figma yaitu : 
     <ol>
