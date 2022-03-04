@@ -47,3 +47,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/nCVa5XubalXGMkeaTD8iUm/Praktikum-Section-6?node-id=0%3A1
 </p>
+
+![Login Auto Layout](https://user-images.githubusercontent.com/80687802/156806128-6b399bf7-4f49-4ebf-90ec-3c9d28e8323e.png)
