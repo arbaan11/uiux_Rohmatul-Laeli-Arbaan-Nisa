@@ -43,5 +43,6 @@
     Pada task ini diminta untuk membuat prototype dari desain yang telah disediakan
     Berikut hasil dari praktikum :
     https://www.figma.com/file/dHKOPu1kaG6liXfU1eOBby/Praktikum-Section-8?node-id=0%3A1
-    
 </p>
+
+![Screenshot 2022-03-07 153328](https://user-images.githubusercontent.com/80687802/156997713-31b6b9fe-48ee-42b7-815b-6d740c969dca.png)
