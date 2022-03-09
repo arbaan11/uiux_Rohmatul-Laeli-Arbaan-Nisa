@@ -30,5 +30,7 @@
 <p>
     Pada task ini diminta untuk berkelompok membuat empathize map menggunakan user persona sebelumnya
     Berikut hasil dari praktikum :
-    
+    https://www.figma.com/file/NmZ8P7O13Pip2b1wHURfmO/Empathy-Map-Section-9?node-id=0%3A1
 </p>
+
+![Screenshot (456)](https://user-images.githubusercontent.com/80687802/157376681-07d08c1d-19d7-4efb-8f2c-6cd9c448ea3c.png)
