@@ -1,4 +1,4 @@
-<h1>(8) Figma Collaboration</h1>
+<h1>(9) Figma Collaboration</h1>
 
 <h2>Resume</h2>
 <h3>1. Kolaborasi di Figma</h3>
