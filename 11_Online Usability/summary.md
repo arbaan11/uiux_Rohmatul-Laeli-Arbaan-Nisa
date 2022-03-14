@@ -29,5 +29,7 @@
 <p>
     Pada task ini diminta untuk menjalankanonline  usability testing menggunakan maze berdasarkan tugas skenario sebelumnya.
     Berikut hasil dari praktikum :
-   
+    https://t.maze.co/80513484
 </p>
+
+![Screenshot (23)](https://user-images.githubusercontent.com/80687802/158124892-d55faaf0-e93b-4658-9828-a4c40d336ff0.png)
