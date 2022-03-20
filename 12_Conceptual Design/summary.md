@@ -32,5 +32,5 @@
 <p>
     Pada task ini diminta untuk membuat page detail product, breadcumbs, dan tampilan notifikasi ketika berhasil melakukan sesuatu.
     Berikut hasil dari praktikum :
-    
+    https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-12?node-id=322%3A2
 </p>
