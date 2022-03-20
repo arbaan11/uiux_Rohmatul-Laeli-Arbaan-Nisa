@@ -34,3 +34,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-12?node-id=322%3A2
 </p>
+
+![Screenshot 2022-03-20 160531](https://user-images.githubusercontent.com/80687802/159155629-22765f0a-d51e-4c58-9063-26e29f101f3f.png)
