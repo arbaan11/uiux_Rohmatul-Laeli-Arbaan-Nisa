@@ -21,7 +21,6 @@
         <li>Teliti sampai ke detail terakhir</li>
         <li>Ramah lingkungan</li>
         <li>Desain minimalis</li>
-        <li></li>
     </ol>
 <h3>3. Design Language</h3>
     <ol>
@@ -39,3 +38,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-Alta?node-id=431%3A493
 </p>
+
+![Screenshot 2022-03-22 121348](https://user-images.githubusercontent.com/80687802/159414478-db4c4eab-0bbc-4b6d-a756-672a9e8ac02b.png)
