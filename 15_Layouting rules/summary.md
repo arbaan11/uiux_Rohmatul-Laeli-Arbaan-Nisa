@@ -12,7 +12,7 @@
         <li>Contact</li>
             <p>Mengacu pada 2 elemen desain dari aspek yang berbeda tampilan dan sifatnya. Untuk membuat kontras, dapat bereksperimen dengan warna, jenis huruf, bentuk, dan ukuran.</p>
     </ol>
-<h3>3. Prinsip Dasar Layouting (Part 1)</h3>
+<h3>3. Prinsip Dasar Layouting (Part 2)</h3>
     <ol>
         <li>Alignment</li>
             <p>Dalam desain grafis, harus selalu memperhatikan keselarasan,untuk teks, citra, atau elemen desain secara umum. Poin pentingnya yaitu selalu melihat untuk menyelaraskan pekerjaan secara profesional, dan tidak membuat kesalahan pemula dengan mengabaikan keselarasan.</p>
