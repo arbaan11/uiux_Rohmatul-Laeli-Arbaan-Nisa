@@ -1,4 +1,4 @@
-<h1>(14) Layouting Rules</h1>
+<h1>(15) Layouting Rules</h1>
 
 <h2>Resume</h2>
 <h3>1.  Layouting Rules</h3>
@@ -26,3 +26,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-Alta?node-id=505%3A851
 </p>
+
+![Screenshot 2022-03-23 121622](https://user-images.githubusercontent.com/80687802/159629109-6c1b772c-bf1a-4a4c-8d04-906de776691a.png)
