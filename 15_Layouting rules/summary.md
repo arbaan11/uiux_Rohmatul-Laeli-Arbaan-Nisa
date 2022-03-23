@@ -24,5 +24,5 @@
 <p>
     Pada task ini diminta untuk redesign halaman yang disajikan kemudian menambahkan beberapa prinsip dasar yang telah dijelaskan
     Berikut hasil dari praktikum :
-    https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-Alta?node-id=431%3A493
+    https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-Alta?node-id=505%3A851
 </p>
