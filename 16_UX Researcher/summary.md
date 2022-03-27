@@ -30,5 +30,9 @@
 <p>
     Pada task ini diminta untuk redesign halaman yang disajikan secara berkelompok
     Berikut hasil dari praktikum :
+    
     https://www.figma.com/file/pkLbZ0k3EJSiogiPYHRa81/UX-Research?node-id=109%3A632
+    https://docs.google.com/document/d/1DUvzpQPQC3UtNubtvzJ-BVZlKAYt04VuDM5YIB-Df1E/edit?usp=sharing
 </p>
+
+![Screenshot 2022-03-25 170221](https://user-images.githubusercontent.com/80687802/160274080-aacbf414-48b1-454b-87f7-185d980b1299.png)
