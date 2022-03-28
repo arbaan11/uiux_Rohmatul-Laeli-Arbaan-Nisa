@@ -38,7 +38,6 @@
 <p>
     Pada task ini diminta untuk redesign halaman yang disajikan menjadi tampilan mobile
     Berikut hasil dari praktikum :
-    
     https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-Alta?node-id=532%3A853
 </p>
 
