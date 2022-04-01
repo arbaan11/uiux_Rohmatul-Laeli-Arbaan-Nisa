@@ -41,4 +41,5 @@
     https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-Alta?node-id=532%3A853
 </p>
 
-![Screenshot 2022-03-28 174145](https://user-images.githubusercontent.com/80687802/160381754-ee7c4899-fa67-47cf-b30f-a446290482ab.png)
+![Screenshot 2022-03-28 174145](https://user-images.githubusercontent.com/80687802/160809410-2f3fda86-d6a4-44c5-ae79-474d95459b4b.png)
+
