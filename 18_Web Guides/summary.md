@@ -35,3 +35,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/klgGSqgSmGalX8Q8vLSPn9/Praktikum-Section-Alta?node-id=573%3A887
 </p>
+
+![Screenshot 2022-04-02 013812](https://user-images.githubusercontent.com/80687802/161323488-210286d3-ed4c-4b12-a72c-e9b448bf74ba.png)
