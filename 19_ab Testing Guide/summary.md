@@ -27,5 +27,5 @@
 <p>
     Pada task ini diminta untuk melakukan a/b testing
     Berikut hasil dari praktikum :
-    
+    https://www.figma.com/file/S6lgQb4417v5Q3X8kKva1X/a%2Fb-testing?node-id=0%3A1
 </p>
