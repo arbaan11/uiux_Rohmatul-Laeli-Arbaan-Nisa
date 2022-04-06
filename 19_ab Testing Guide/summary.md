@@ -29,3 +29,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/S6lgQb4417v5Q3X8kKva1X/a%2Fb-testing?node-id=0%3A1
 </p>
+
+![Landing Page Robin](https://user-images.githubusercontent.com/80687802/161931766-d0a7ad97-dd08-4e95-b85f-9be2a260eb31.png)
