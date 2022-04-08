@@ -29,3 +29,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/l7gN4ScQIvG4Y9LJO2477q/Visual-Hierarchy-Alterra-Task_Section-20?node-id=0%3A1
 </p>
+
+![Screenshot 2022-04-08 202105](https://user-images.githubusercontent.com/80687802/162444433-9df242be-3053-406d-ae12-d6548df97e6b.png)
