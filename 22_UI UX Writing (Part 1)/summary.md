@@ -25,3 +25,5 @@
     Berikut hasil dari praktikum :
     https://docs.google.com/document/d/1qEhSDeweZehZJ-kKc0yld96sdHEuLsaC75yEenEE7iE/edit?usp=sharing
 </p>
+
+![ux writing](https://user-images.githubusercontent.com/80687802/163356995-b5ad4d56-0a49-4411-b917-81f17aea6bd1.png)
