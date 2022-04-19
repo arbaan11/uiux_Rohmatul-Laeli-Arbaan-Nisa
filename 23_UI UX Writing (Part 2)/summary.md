@@ -30,9 +30,7 @@
 
 <h2>Task</h2>
 <p>
-    Pada task ini diminta untuk analisis UX writing dari suatu brand.
+    Pada task ini diminta untuk membuat promp kenaikan harga saat akan checkout barang.
     Berikut hasil dari praktikum :
-    https://docs.google.com/document/d/1qEhSDeweZehZJ-kKc0yld96sdHEuLsaC75yEenEE7iE/edit?usp=sharing
+    https://www.figma.com/file/l7gN4ScQIvG4Y9LJO2477q/Section-20-dan-23?node-id=0%3A1
 </p>
-
-![ux writing](https://user-images.githubusercontent.com/80687802/163356995-b5ad4d56-0a49-4411-b917-81f17aea6bd1.png)
