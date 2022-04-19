@@ -34,3 +34,5 @@
     Berikut hasil dari praktikum :
     https://www.figma.com/file/l7gN4ScQIvG4Y9LJO2477q/Section-20-dan-23?node-id=0%3A1
 </p>
+
+![modal](https://user-images.githubusercontent.com/80687802/163941885-ce428b56-9822-409d-89cb-af608b7188a6.jpg)
